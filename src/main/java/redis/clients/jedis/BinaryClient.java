@@ -1,6 +1,5 @@
 package redis.clients.jedis;
 
-import static redis.clients.jedis.Protocol.sendCommand;
 import static redis.clients.jedis.Protocol.toByteArray;
 import static redis.clients.jedis.Protocol.Command.*;
 import static redis.clients.jedis.Protocol.Keyword.ENCODING;
