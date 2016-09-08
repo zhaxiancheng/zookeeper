@@ -13,7 +13,6 @@ import static redis.clients.jedis.Protocol.Keyword.RESET;
 import static redis.clients.jedis.Protocol.Keyword.STORE;
 import static redis.clients.jedis.Protocol.Keyword.WITHSCORES;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
